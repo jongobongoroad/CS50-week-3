@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: The running time for the program execution is shorter than sort2 and is longer than sort3.
+
+sort2 uses: Merge sort
+
+How do you know?: The running time for the program execution is the shortes of the 3 sorts.
+
+sort3 uses: Selection sort
+
+How do you know?: The running time for the program execution is the lastest of the 3 sorts.
